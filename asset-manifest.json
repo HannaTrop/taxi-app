@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/HannaTrop/.github.io/taxi-app/static/css/main.05a22ffa.css",
-    "main.js": "/HannaTrop/.github.io/taxi-app/static/js/main.ab937e79.js",
-    "static/media/bus.svg": "/HannaTrop/.github.io/taxi-app/static/media/bus.36eff9db6d7a8957c4fe3b73df73baf0.svg",
-    "static/media/taxi 1.svg": "/HannaTrop/.github.io/taxi-app/static/media/taxi 1.ed32dcc4b41c3036fa8948ad4a76a5c7.svg",
-    "static/media/comfort.svg": "/HannaTrop/.github.io/taxi-app/static/media/comfort.be6f8f8102b587a2db41ce5a24eeb3e8.svg",
-    "static/media/universal.svg": "/HannaTrop/.github.io/taxi-app/static/media/universal.0021228a2fd90373b0bc5c9e8be12fdf.svg",
-    "static/media/bisnes.svg": "/HannaTrop/.github.io/taxi-app/static/media/bisnes.4cb139e6d197ef68de30a2f40d00c622.svg",
-    "static/media/standart.svg": "/HannaTrop/.github.io/taxi-app/static/media/standart.80fe23e377afa49d1bd8395a9d648f88.svg",
-    "index.html": "/HannaTrop/.github.io/taxi-app/index.html",
-    "main.05a22ffa.css.map": "/HannaTrop/.github.io/taxi-app/static/css/main.05a22ffa.css.map",
-    "main.ab937e79.js.map": "/HannaTrop/.github.io/taxi-app/static/js/main.ab937e79.js.map"
+    "main.css": "/taxi-app/static/css/main.05a22ffa.css",
+    "main.js": "/taxi-app/static/js/main.60281edc.js",
+    "static/media/bus.svg": "/taxi-app/static/media/bus.36eff9db6d7a8957c4fe3b73df73baf0.svg",
+    "static/media/taxi 1.svg": "/taxi-app/static/media/taxi 1.ed32dcc4b41c3036fa8948ad4a76a5c7.svg",
+    "static/media/comfort.svg": "/taxi-app/static/media/comfort.be6f8f8102b587a2db41ce5a24eeb3e8.svg",
+    "static/media/universal.svg": "/taxi-app/static/media/universal.0021228a2fd90373b0bc5c9e8be12fdf.svg",
+    "static/media/bisnes.svg": "/taxi-app/static/media/bisnes.4cb139e6d197ef68de30a2f40d00c622.svg",
+    "static/media/standart.svg": "/taxi-app/static/media/standart.80fe23e377afa49d1bd8395a9d648f88.svg",
+    "index.html": "/taxi-app/index.html",
+    "main.05a22ffa.css.map": "/taxi-app/static/css/main.05a22ffa.css.map",
+    "main.60281edc.js.map": "/taxi-app/static/js/main.60281edc.js.map"
   },
   "entrypoints": [
     "static/css/main.05a22ffa.css",
-    "static/js/main.ab937e79.js"
+    "static/js/main.60281edc.js"
   ]
 }
