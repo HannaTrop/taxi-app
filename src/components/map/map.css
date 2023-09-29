@@ -1,0 +1,165 @@
+.search {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 350px;
+  width: 400px;
+}
+
+.input {
+  width: 400px;
+  height: 50px;
+  border-radius: 5px;
+  padding: 20px;
+  color: black;
+  margin-bottom: 20px;
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+.order {
+  width: 200px;
+  height: 40px;
+  margin-top: 0px;
+  margin-left: 100px;
+  border-radius: 5px;
+  background-color: #ffd500;
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+.time {
+  position: relative;
+  width: 100%;
+  bottom: 54px;
+  left: 310px;
+  color: #676767;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.blocks {
+  position: relative;
+  right: 5%;
+  display: flex;
+  width: 500px;
+  overflow: hidden;
+}
+
+.block {
+  opacity: 0.7;
+  padding: 5px;
+  padding-left: 10px;
+  margin-left: 10px;
+  min-width: 100px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.active {
+  opacity: 1;
+}
+
+.carImg {
+  width: 60px;
+  height: 50px;
+}
+
+@media (max-width: 600px) {
+  .blocks {
+    width: 440px;
+  }
+  .buttons {
+    width: 440px;
+  }
+}
+
+@media (max-width: 492px) {
+  .search {
+    width: 350px;
+  }
+
+  .input {
+    width: 350px;
+  }
+
+  .order {
+    width: 150px;
+  }
+
+  .time {
+    left: 260px;
+  }
+  .blocks {
+    width: 400px;
+  }
+  .buttons {
+    width: 400px;
+  }
+}
+
+@media (max-width: 375px) {
+  .search {
+    width: 280px;
+  }
+
+  .input {
+    width: 280px;
+  }
+
+  .order {
+    width: 120px;
+    margin-left: 80px;
+  }
+
+  .time {
+    left: 190px;
+  }
+  .blocks {
+    width: 340px;
+  }
+  .buttons {
+    width: 340px;
+  }
+}
+.buttons {
+  display: flex;
+  position: relative;
+  right: 25px;
+  bottom: 28px;
+}
+.i {
+  width: 500px;
+}
+.scroll-button {
+  width: 250px;
+  opacity: 0;
+
+  background-color: #ff7700;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 16px;
+  padding: 5px 10px;
+
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.scroll-button:hover {
+  background-color: #999;
+}
